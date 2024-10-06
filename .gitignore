@@ -1,0 +1,6 @@
+torch/__pycache__/
+torch/nets/Planes_cars_motos/assets/images_augmented/
+torch/nets/Planes_cars_motos/assets/moto/
+torch/nets/Planes_cars_motos/assets/cars/
+torch/nets/Planes_cars_motos/assets/planes/
+tensorflow/networks/MLOPS/assets/
